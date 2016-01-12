@@ -10,9 +10,12 @@ HTML/XML parser and web scraper for NodeJS.
 - Flexible: supports both CSS and XPath selectors
 - Predictable: same input, same output, same order
 - Detailed logging for every step
-- Precise and natural IO flow- no setTimeout or process.nextTick
 - Easy debugging with built-in stack size and memory usage reporting
-- Memory leak free
+
+
+###Coming soon:
+
+DOM support and the ability to run scripts/CSS without a headless browser.
 
 ##Example: scrape all craigslist listings
 
