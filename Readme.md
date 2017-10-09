@@ -1,4 +1,6 @@
 #Osmosis
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnode-osmosis.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnode-osmosis?ref=badge_shield)
+
 
 HTML/XML parser and web scraper for NodeJS.
 
@@ -60,3 +62,7 @@ For documentation and examples check out [https://github.com/rc0x03/node-osmosis
 
 - [libxmljs](https://github.com/polotek/libxmljs) - libxml C bindings
 - [needle](https://github.com/tomas/needle) - Lightweight HTTP wrapper
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fnode-osmosis.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fnode-osmosis?ref=badge_large)
